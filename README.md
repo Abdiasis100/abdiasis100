@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Abdiasis Salad
+
 <!--
 **Abdiasis100/abdiasis100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
